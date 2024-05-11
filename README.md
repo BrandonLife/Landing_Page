@@ -3,6 +3,10 @@
 <h1>What is this project about?</h1>
 <p>This project is a basic landing page that uses create-react-app along with some basic CSS styles</p>
 
+<h1>Sources</h1>
+<ul>
+<li>Johan Alves-https://www.youtube.com/watch?v=6J2t_RyQopU</li>
+</ul>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
