@@ -1,3 +1,8 @@
+<h1>Landing Page</h1>
+
+<h1>What is this project about?</h1>
+<p>This project is a basic landing page that uses create-react-app along with some basic CSS styles</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
