@@ -1,0 +1,33 @@
+.section-container {
+	height: 100vh;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.35);
+}
+.App {
+	margin: 0;
+	padding: 0;
+}
+
+main div p {
+	font-size: 4em;
+	font-weight: bold;
+	color: burlywood;
+}
+
+main div button {
+	font-size: 3em;
+	background-color: cornflowerblue;
+	border: 3px solid black;
+	border-radius: 2em;
+}
+
+main div button:hover {
+	background-color: green;
+}
+
+h1 {
+	text-align: center;
+}
